@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# VSCode & Xcode user settings
+*.xcuserdata/
+*.xcuserstate
+*.swp
+*.swo
+*.idea/
+*.vscode/
+
+# Build files (if you ever include code later)
+build/
+DerivedData/
+Pods/
+
